@@ -1,0 +1,30 @@
+_repo: EndymionA-Poetic-Romance_24280
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keats, John
+    birthdate: 1795
+    deathdate: 1821
+    gutenberg_agent_id: '935'
+    url: http://www.gutenberg.org/2009/agents/935
+    wikipedia: http://en.wikipedia.org/wiki/John_Keats
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2008-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love poetry, Romance'
+- !lcsh 'English poetry -- 19th century'
+- !lcsh 'Endymion (Greek mythology) -- Poetry'
+- !lcc 'PR'
+title: 'Endymion: A Poetic Romance'
+url: http://www.gutenberg.org/ebooks/24280
